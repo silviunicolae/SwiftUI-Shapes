@@ -8,6 +8,6 @@
 import SwiftUI
 
 var homeAnimations = [
-    HomeAnimation(name: "Animation One", viewName: AnyView(AnimationOneView())),
+    HomeAnimation(name: "Glassmorphism", viewName: AnyView(GlassmorphismView())),
     HomeAnimation(name: "Animation Two", viewName: AnyView(AnimationTwoView()))
 ]

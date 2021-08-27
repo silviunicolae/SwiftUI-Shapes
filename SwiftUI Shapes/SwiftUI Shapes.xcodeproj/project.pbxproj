@@ -7,18 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B14FC7BB26D95C1E009E8173 /* GlassmorphismView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14FC7BA26D95C1E009E8173 /* GlassmorphismView.swift */; };
 		B1A1648026D77E9B00A6D054 /* SwiftUI_ShapesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A1647F26D77E9B00A6D054 /* SwiftUI_ShapesApp.swift */; };
 		B1A1648226D77E9B00A6D054 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A1648126D77E9B00A6D054 /* ContentView.swift */; };
 		B1A1648426D77E9C00A6D054 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1A1648326D77E9C00A6D054 /* Assets.xcassets */; };
 		B1A1648726D77E9C00A6D054 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1A1648626D77E9C00A6D054 /* Preview Assets.xcassets */; };
 		B1A1649026D77EE100A6D054 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A1648F26D77EE100A6D054 /* HomeView.swift */; };
-		B1A1649326D77FDA00A6D054 /* AnimationOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A1649226D77FDA00A6D054 /* AnimationOneView.swift */; };
 		B1A1649526D7800900A6D054 /* AnimationTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A1649426D7800900A6D054 /* AnimationTwoView.swift */; };
 		B1A1649726D780CB00A6D054 /* HomeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A1649626D780CB00A6D054 /* HomeModel.swift */; };
 		B1A1649926D780D400A6D054 /* HomeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A1649826D780D400A6D054 /* HomeData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B14FC7BA26D95C1E009E8173 /* GlassmorphismView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassmorphismView.swift; sourceTree = "<group>"; };
 		B1A1647C26D77E9B00A6D054 /* SwiftUI Shapes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Shapes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1A1647F26D77E9B00A6D054 /* SwiftUI_ShapesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_ShapesApp.swift; sourceTree = "<group>"; };
 		B1A1648126D77E9B00A6D054 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -26,7 +27,6 @@
 		B1A1648626D77E9C00A6D054 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B1A1648826D77E9C00A6D054 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1A1648F26D77EE100A6D054 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
-		B1A1649226D77FDA00A6D054 /* AnimationOneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationOneView.swift; sourceTree = "<group>"; };
 		B1A1649426D7800900A6D054 /* AnimationTwoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTwoView.swift; sourceTree = "<group>"; };
 		B1A1649626D780CB00A6D054 /* HomeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeModel.swift; sourceTree = "<group>"; };
 		B1A1649826D780D400A6D054 /* HomeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeData.swift; sourceTree = "<group>"; };
@@ -94,7 +94,7 @@
 		B1A1649126D77FAB00A6D054 /* HomeAnimationsList */ = {
 			isa = PBXGroup;
 			children = (
-				B1A1649226D77FDA00A6D054 /* AnimationOneView.swift */,
+				B14FC7BA26D95C1E009E8173 /* GlassmorphismView.swift */,
 				B1A1649426D7800900A6D054 /* AnimationTwoView.swift */,
 			);
 			path = HomeAnimationsList;
@@ -174,7 +174,7 @@
 				B1A1649726D780CB00A6D054 /* HomeModel.swift in Sources */,
 				B1A1649526D7800900A6D054 /* AnimationTwoView.swift in Sources */,
 				B1A1649926D780D400A6D054 /* HomeData.swift in Sources */,
-				B1A1649326D77FDA00A6D054 /* AnimationOneView.swift in Sources */,
+				B14FC7BB26D95C1E009E8173 /* GlassmorphismView.swift in Sources */,
 				B1A1648026D77E9B00A6D054 /* SwiftUI_ShapesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
