@@ -9,7 +9,8 @@ import SwiftUI
 
 let animationTabList = [
     AppTabList(name: "Card Horizontal Scrolling", view: AnyView(CardHorizontalScrolling())),
-    AppTabList(name: "Animated Expandable Button", view: AnyView(AnimatedExpandableButton()))
+    AppTabList(name: "Animated Expandable Button", view: AnyView(AnimatedExpandableButton())),
+    AppTabList(name: "Drag and Drop Text", view: AnyView(DragAndDropText()))
 ]
 
 struct AnimationTabView: View {

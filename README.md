@@ -5,20 +5,19 @@
 ### Animation Tab
 
 [+] Card Horizontal Scrolling with Animation in SwiftUI -> _Commit 003_ <br />
-
 [+] Animated Expandable Button in SwiftUI -> _Commit 004_ <br />
+[+] Drag and Drop text in SwiftUI -> _Commit 006_ <br />
 
 ### Design Tab
 
 [+] Glassmorphism -> _Commit 002_ <br />
-
 [+] TextField with floating Placeholder -> _Commit 005_ <br />
 
 ## Last Commit
 
-### Commit 006 - titlu
+### Commit 006 - Drag and Drop text in SwiftUI
 
-[+] This can be found in **asd** inside _asdTab_
+[+] This can be found in **DragAndDropText** inside _AnimationTab_
 
 ## Old Commits
 
@@ -40,4 +39,4 @@
 
 ### Commit 001 - Custom animated TabBar
 
-[+] On the website [Developer Journey](https://developerjourney.it/custom-animated-tabbar-in-swiftui/) can be found the implementation steps. <br />
+[+] On the website [Developer Journey](https://www.creativecode.website/custom-animated-tabbar-in-swiftui/) can be found the implementation steps. <br />
