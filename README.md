@@ -39,4 +39,4 @@
 
 ### Commit 001 - Custom animated TabBar
 
-[+] On the website [Developer Journey](https://www.creativecode.website/custom-animated-tabbar-in-swiftui/) can be found the implementation steps. <br />
+[+] On the website [CreativeCode](https://www.creativecode.website/custom-animated-tabbar-in-swiftui/) can be found the implementation steps. <br />
